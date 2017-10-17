@@ -145,7 +145,7 @@ class mysqli  {
 	 * A bitmask of MYSQLI_TRANS_COR_* constants.
 	 * </p>
 	 * @param string $name [optional] <p>
-	 * If provided then COMMIT/*name*/ is executed.
+	 * If provided then COMMIT/*name*/ /*is executed.
 	 * </p>
 	 * @return bool true on success or false on failure
 	 */
@@ -646,7 +646,7 @@ class mysqli  {
 	 * A bitmask of MYSQLI_TRANS_COR_* constants.
 	 * </p>
 	 * @param string $name [optional] <p>
-	 * If provided then ROLLBACK/*name*/ is executed.
+	 * If provided then ROLLBACK/*name*/ /*is executed.
 	 * </p>
 	 * @return bool true on success or false on failure
 	 */
