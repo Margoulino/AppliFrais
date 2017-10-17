@@ -660,7 +660,7 @@ class mysqli  {
 	 * @return bool true on success or false on failure
 	 */
 	public function savepoint ($name) {}
-
+//
 	/**
 	 * Selects the default database for database queries
 	 * @link http://www.php.net/manual/en/mysqli.select-db.php
