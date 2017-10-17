@@ -1,6 +1,6 @@
 ﻿<?php
-	$this->load->helper('url');
-	$path = base_url();
+$this->load->helper('url');
+$path = base_url();
 ?>
 
 <div id="contenu">

@@ -1,6 +1,6 @@
 ﻿<?php
-	$this->load->helper('url');
-	$v_path = base_url('application/views');
+$this->load->helper('url');
+$v_path = base_url('application/views');
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -68,5 +68,3 @@
 
 	</body>
 </html>
-
-	  
